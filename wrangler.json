@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "achievement-tracker-db-worker",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "22437b4f-e270-4eed-9459-11127bdd06d3",
+      "database_name": "AchievemntTracker"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
